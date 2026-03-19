@@ -9,6 +9,10 @@ I run [Claude Code Curious](https://claudecodecurious.com), a community for peop
 ***
 ## Active projects
 
+🎨 **[Friendly Terminal](https://github.com/maxtattonbrown/friendly-terminal)** — A warm terminal theme for people who find the command line intimidating
+
+🪑 **Upstanding** — macOS menu bar app for standing desk control + posture reminders
+
 🚂 **[Train Tracks](https://github.com/maxtattonbrown/train-tracks)** — Claude Code skill for live UK train departures + Apple Calendar integration
 
 🖥️ **[Claude Code Curious screensaver](https://github.com/maxtattonbrown/claude-code-screensaver)** — Terminal screensaver for my events
