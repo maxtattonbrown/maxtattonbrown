@@ -9,7 +9,7 @@ I run [Claude Code Curious](https://claudecodecurious.com), a community for peop
 ***
 ## Active projects
 
-🎨 **[Friendly Terminal](https://github.com/maxtattonbrown/friendly-terminal)** — A warm terminal theme for people who find the command line intimidating
+🐾 **[Clawd Code](https://github.com/maxtattonbrown/clawd-code)** — One command to make Claude Code friendly for beginners. Warm theme, helpful statusline, welcome skill. Built on [Friendly Terminal](https://github.com/maxtattonbrown/friendly-terminal), a colour theme I made after watching people flinch at the default black screen.
 
 🪑 **Upstanding** — macOS menu bar app for standing desk control + posture reminders
 
