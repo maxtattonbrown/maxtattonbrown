@@ -1,10 +1,8 @@
 # Hey, I'm Max 👋
 
-I build products with AI, *with AI*.
+Every word is a choice. I write language that builds — AI products, positioning, and differentiation.
 
-Founder of [Orbit](https://productmarketorbit.com), where I make product and marketing as intentional as engineering.
-
-I run [Claude Code Curious](https://claudecodecurious.com), a community for people building and working with AI agents. Monthly meetups in London + online community on [Cast](https://cast.claudecodecurious.com). Claude Community Ambassador.
+Founder of [Orbit](https://productmarketorbit.com) and [Claude Code Curious](https://claudecodecurious.com), a community for people building and working with AI agents. Monthly meetups in London + online community on [Cast](https://cast.claudecodecurious.com). Claude Community Ambassador.
 
 ***
 ## Active projects
