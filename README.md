@@ -7,7 +7,7 @@ Founder of [Orbit](https://productmarketorbit.com) and [Claude Code Curious](htt
 ***
 ## Active projects
 
-🐾 **[Clawd Code](https://github.com/maxtattonbrown/clawd-code)** — One command to make Claude Code friendly for beginners. Warm theme, helpful statusline, welcome skill. Built on [Friendly Terminal](https://github.com/maxtattonbrown/friendly-terminal), a colour theme I made after watching people flinch at the default black screen.
+🎮 **[Claude Code: Easy Mode](https://github.com/maxtattonbrown/claude-code-easy-mode)** — One command to make Claude Code friendly for beginners. Warm theme, helpful statusline, welcome skill. Built on [Friendly Terminal](https://github.com/maxtattonbrown/friendly-terminal), a colour theme I made after watching people flinch at the default black screen.
 
 🪑 **Upstanding** — macOS menu bar app for standing desk control + posture reminders
 
